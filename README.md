@@ -16,13 +16,6 @@
   <a href="#"><img src="https://img.shields.io/badge/许可证-MIT-green.svg"></a>
 </p>
 
-联系方式
-
-<p align="center">
-  <img src="https://zeroclone.com/dc.png" alt="客服二维码" width="200">
-</p>
-
-- 联系商户支持 API 或 OEM 对接
 
 ---
 
@@ -114,20 +107,23 @@ zerocloneAI/
 
 # ZeroClone截图
 
-### C端用户界面
+### 用户界面
 ![C端首页](images/用户端/首页.png)
 ![C端套餐](images/用户端/套餐.png)
 ![C端个人中心](images/用户端/个人中心.png)
 
-### 商户管理后台
+### 管理端后台
 ![商户后台](images/管理端/管理端.png)
 ![商户后台](images/管理端/管理端-1.png)
 ![商户后台](images/管理端/管理端2.png)
 ![商户后台](images/管理端/管理端3.png)
 ![商户后台](images/管理端/管理端4.png)
 
-### 改写效果对比
-![改写对比](images/改写对比.png)
+### 降重效果
+![改写对比](images/用户端/PaperPass.png)
+![改写对比](images/用户端/维普.png)
+![改写对比](images/用户端/格子达.png)
+![改写对比](images/用户端/知网.png)
 
 ---
 
