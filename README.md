@@ -1,7 +1,7 @@
 # ZeroClone AIGC 智能改写平台
 
 <p align="center">
-  <img alt="ZeroClone" src="[https://zeroclone.com/logo.png](https://zeroclone-1300941088.cos.ap-shanghai.myqcl…com/upload/2026/02/24/LOGO_20260224124827A001.png)" width="200">
+  <img alt="ZeroClone" src="https://zeroclone-1300941088.cos.ap-shanghai.myqcl…com/upload/2026/02/24/LOGO_20260224124827A001.png" width="200">
 </p>
 
 <h1 align="center">ZeroClone AIGC</h1>
