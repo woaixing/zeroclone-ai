@@ -17,6 +17,13 @@
 </p>
 
 
+## 联系方式
+
+<p align="center">
+  <img src="https://zeroclone.com/dc.png" alt="客服二维码" width="200">
+</p>
+
+- 联系商户支持 API 或 OEM 对接
 ---
 
 ## 平台简介
@@ -139,10 +146,3 @@ MIT License
 
 ---
 
-## 联系方式
-
-<p align="center">
-  <img src="https://zeroclone.com/dc.png" alt="客服二维码" width="200">
-</p>
-
-- 联系商户支持 API 或 OEM 对接
