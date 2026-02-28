@@ -106,24 +106,21 @@ zerocloneAI/
 │   └── src/                # 商户前端应用
 ---
 
-## 快速开始
+## 系统截图
 
-### 环境要求
+### C端用户界面
+![C端首页](images/用户端/首页.png)
+![C端首页](images/用户端/套餐.png)
+![C端首页](images/用户端/个人中心.png)
+### 商户管理后台
+![商户后台](images/管理端/管理端.png)
+![商户后台](images/管理端/管理端-1.png)
+![商户后台](images/管理端/管理端2.png)
+![商户后台](images/管理端/管理端3.png)
+![商户后台](images/管理端/管理端4.png)
+### 改写效果对比
+![改写对比](images/改写对比.png)
 
-- Node.js >= 18.0
-- JDK >= 17
-- MySQL >= 8.0
-- Redis >= 6.0
-
-### 前端启动
-
-```bash
-# 安装依赖
-cd C端用户前端
-npm install
-
-# 启动开发服务器
-npm run dev
 
 ---
 
