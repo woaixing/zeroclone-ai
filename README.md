@@ -15,7 +15,12 @@
   <a href="#"><img src="https://img.shields.io/badge/版本-v1.0.0-blue.svg"></a>
   <a href="#"><img src="https://img.shields.io/badge/许可证-MIT-green.svg"></a>
 </p>
+联系方式
+<p align="center">
+  <img src="https://zeroclone.com/dc.png" alt="客服二维码" width="200">
+</p>
 
+- 联系商户支持 API 或 OEM 对接
 ---
 
 ## 平台简介
@@ -133,12 +138,4 @@ npm run dev
 MIT License
 
 ---
-
-## 联系方式
-
-- 客服微信：扫描下方二维码
-<p align="center">
-  <img alt="ZeroClone" src="https://zeroclone.com/dc.png" width="200">
-</p>
-- 联系商户支持 API 或 OEM 对接
 
