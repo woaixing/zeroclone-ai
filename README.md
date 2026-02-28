@@ -137,5 +137,8 @@ MIT License
 ## 联系方式
 
 - 客服微信：扫描下方二维码
+<p align="center">
+  <img alt="ZeroClone" src="https://zeroclone.com/dc.png" width="200">
+</p>
 - 联系商户支持 API 或 OEM 对接
 
